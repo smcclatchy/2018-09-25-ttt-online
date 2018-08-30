@@ -8,13 +8,13 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: ""       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "Sep 25-26, 2018"
-humantime: "9:00 am - 4:30 pm"
+humantime: "9:00 am - 4:30 pm EDT"
 startdate: 2018-09-25
 enddate: 2018-09-25
 instructor: ["Sue McClatchy", "Christina Koch"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["susan.mcclatchy@jax.org", "koch.christinal@gmail.com"]  
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+contact: ["susan.mcclatchy@jax.org", "koch.christinal@gmail.com"]
+etherpad: https://pad.carpentries.org/2018-09-25-ttt-online   
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
