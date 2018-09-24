@@ -11,9 +11,9 @@ humandate: "Sep 25-26, 2018"
 humantime: "9:00 am - 4:30 pm EDT"
 startdate: 2018-09-25
 enddate: 2018-09-25
-instructor: ["Sue McClatchy", "Christina Koch"]
+instructor: ["Sue McClatchy", "Maneesha Sane"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-contact: ["susan.mcclatchy@jax.org", "koch.christinal@gmail.com"]
+contact: ["susan.mcclatchy@jax.org", "maneesha@carpentries.org"]
 etherpad: https://pad.carpentries.org/2018-09-25-ttt-online   
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
